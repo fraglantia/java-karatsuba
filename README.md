@@ -2,16 +2,13 @@
 Karatsuba DnC Algo for tucil Stima
 
 ## to compile
-```./compile.sh
-```
+```./compile.sh```
 
 ## to run
-```java Driver
-```
+```java Driver```
 
 ## to cleanup
-```./cleanup
-```
+```./cleanup```
 
 # TODO
 1. parse the output to be polynoms
